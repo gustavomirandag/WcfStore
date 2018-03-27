@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{6FDB3205-56FE-41E8-861F-65286861DFBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfProductManager", "WcfProductManager\WcfProductManager.csproj", "{0D8F89B9-8AF9-4477-870E-CBF9636ADA8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6FDB3205-56FE-41E8-861F-65286861DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FDB3205-56FE-41E8-861F-65286861DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FDB3205-56FE-41E8-861F-65286861DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8F89B9-8AF9-4477-870E-CBF9636ADA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8F89B9-8AF9-4477-870E-CBF9636ADA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8F89B9-8AF9-4477-870E-CBF9636ADA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8F89B9-8AF9-4477-870E-CBF9636ADA8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
